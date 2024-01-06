@@ -1,2 +1,2 @@
 # myabaprep
-My repository for ABAP projects
+Using SAP BTP CTS and CI/CD service
